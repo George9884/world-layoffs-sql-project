@@ -44,9 +44,6 @@ MySQL Workbench
  * 
  * Analyzed yearly top-tier layoff contributors utilizing Common Table Expressions (CTEs) and DENSE_RANK()
  *
- * Files
- * World_Layoffs_Full_Project.sql - Full project query
- * 
- * ** George Abasiumoh**
- *** Data Analyst **
- * 
+** George Abasiumoh
+  Data Analyst 
+**
