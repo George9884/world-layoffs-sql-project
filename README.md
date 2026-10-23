@@ -47,6 +47,6 @@ MySQL Workbench
  * Files
  * World_Layoffs_Full_Project.sql - Full project query
  * 
- * By** George Abasiumoh**
- * -Data Analyst 
+ * ** George Abasiumoh**
+ *** Data Analyst **
  * 
